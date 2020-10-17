@@ -1,0 +1,12 @@
+This paper presents various driving behaviour on wet and dry roads conditions. 
+In the UK, road accidents due to weather conditions has been one of the traffic safety
+challenges for researchers as well as drivers particularly in Manchester. This is
+because of its influence on driver behaviour approaching traffic lights on the road bends.
+The model uses data that were obtained from police reports of road accidents at hazardous locations
+in Greater Manchester between 2011 and 2015. The assumption is that the data would be a appropriate
+representation for UK as a whole.The analysis was focused on the association between road surface
+and some important variables such as lighting conditions, speed limits and severity of accidents, were
+investigated by Chi-square test. The analysis showed that road surface significantly contributed to
+accidents at bend roads. Another major inference was that speeding is a major factor in accident occurrence.
+The situation may result in accident with the oncoming vehicle while lane changing or braking suddenly
+to avoid collision.

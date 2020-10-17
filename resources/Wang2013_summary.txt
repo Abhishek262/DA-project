@@ -1,0 +1,20 @@
+Title - The effect of traffic and road characteristics on road safety: A review and 
+    future research direction
+Authors - Chao Wang a, Mohammed A.Quddus , Stephen G. Ison
+Source - http://www.elsevier.com/locate/ssci
+Year - 2013
+This paper mainly relates to the problem and data of our project. The main goal of our project is to
+build a predictive model to accurately predict casualty and severity rate with respect to road accidents 
+using UK traffic data. This paper helps us solve the given problem by 
+providing a review of the factors, with specific focus on traffic and road related factors mainly for car accidents on major roads.
+This helps us understand the data better and also gives insights on the more impactful features in the 
+dataset. The data used to develop this theory on factors is primarily from US and UK.The paper assumes that
+it will fairly be a good representation for all the developed countries. The analysis on developing
+countries are to be taken care of independently. Since the model to be built is using UK traffic dataset, the results of this paper can apply to our research as well.
+Some claims of the paper are that the factors related to traffic characteristics (traffic speed, density, flow
+and congestion) and road characteristics (road geometry and infrastructure) are the most impactful ones mainly for car accidents on major roads (such as freeways).
+It has been found that many of these factors have been investigated from a range of perspectives (e.g. engineering, behavioural and economic)
+and some of the factors had mixed effects on road safety.
+The main take-away from the paper is to focus on these traffic characteristics while building the predictive
+model. The less important features can now either be removed or be associated with a lower weight. This inturn
+helps the model make more accurate predictions.

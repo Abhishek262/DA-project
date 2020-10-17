@@ -1,0 +1,11 @@
+This paper was used to understand the factors affecting road accidents since our project involved the analysis of the same. The inferences from this paper was used to pre-determine the features used in the model with a few modifications. This paper 
+provides a review of the factors, with specific focus on traffic and road related factors mainly for car accidents on major roads.It also offers an overview of road safety theories that explain how and why
+these factors affect road traffic accidents.It offers the road safety community with a better
+understanding of road accidents and aids in developing suitable methods and policies for road safety
+improvement.The data used to develop this theory on factors is primarily from US and UK.The paper assumes that
+it will fairly be a good representation for all the developed countries. The analysis on developing
+countries are to be taken care of independently. Since the model to be built is using UK traffic dataset, the results of this paper can apply to our research as well. The road safety theory was developed by using the government data of the past decades on road accidents.
+Some claims of the paper are that the factors related to traffic characteristics (traffic speed, density, flow and congestion) and road characteristics (road geometry and infrastructure) are the most impactful ones mainly for car accidents on major roads (such as freeways).
+It has been found that many of these factors have been investigated from a range of perspectives (e.g. engineering, behavioural and economic) and some of the factors had mixed effects on road safety. The main take-away from the paper is to focus on these traffic characteristics while building the predictive
+model. The less important features can now either be removed or be associated with a lower weight. This in turn
+helps the model make more accurate predictions.
