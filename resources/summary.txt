@@ -1,0 +1,32 @@
+Data Analytics: Factors of Traffic Accidents in the UK
+
+Authors : Steven Haynes, Prudencia Charles Estin, 
+Sanela Lazarevski, Mekala Soosay, Ah-Lian Kor
+
+Year published : 2019
+
+https://sci-hub.scihubtw.tw/https://doi.org/10.1109/DESSERT.2019.8770021
+
+The paper constitutes of various levels of data analytics namely: Descriptive
+statistical analysis; inferential statistical analysis; machine learning.
+The aim of this data analysis is to explore the factors that could have an
+impact on the number of accidents and their associated fatalities. The analysis
+done in this paper would help us to further build our understanding to 
+analyze traffic accidents related factors.
+
+Some assumptiions made by the paper include: the increase in population of the
+UK leads to more vehicles, which in turn, leads to more traffic accidents and
+approximate normal distribution of the dataset.
+
+Results from the paper's inferential statistical analysis suggest that road users
+are more susceptible to being involved in an accident at certain times of the day.
+Furthermore, the most number of accidents occured at 30mph speed limit but 60mph
+speed limit had the highest number of fatalities. Number of casualties increased 
+proportionately to the speed limit.
+
+The fact that road users are susceptible to accidents at certain times of the 
+day is a major takeaway to analyze the root cause of traffic accidents. The application
+of several machine learning models reveal that the accuracy score of the Random Forest 
+model is approximately 85% which could be further enhanced by selecting more effective 
+features. This tells us that feature selection would be important to analyze accident
+severity and accident cause.
